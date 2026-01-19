@@ -1,0 +1,45 @@
+/* .card {
+    width: 220px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    background: #fff;
+    text-align: left;
+    padding: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+/* ------------------------------ */
+/* .aaa {
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+}
+
+.bbb {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(160, 95, 103);
+}
+
+button {
+    background-color: #1976d2;
+    padding: 8px 16px;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+}
+button:hover {
+    background: #1565c0;
+} */
+/* -------------------------------- */
+.container {
+background: rgb(19, 180, 180);
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+gap: 24px;
+padding: 24px;
+}
+
